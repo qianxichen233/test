@@ -1,0 +1,1 @@
+{"name":"ndk-sys","vers":"0.5.0+25.2.9519653","deps":[{"name":"jni-sys","req":"^0.3.0","features":[],"optional":false,"default_features":true,"target":null,"kind":null,"package":null}],"cksum":"8c196769dd60fd4f363e11d948139556a344e79d451aeb2fa2fd040738ef7691","features":{"audio":[],"bitmap":[],"media":[],"sync":[],"test":[]},"yanked":false}

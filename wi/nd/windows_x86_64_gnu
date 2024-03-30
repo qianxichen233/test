@@ -1,0 +1,3 @@
+{"name":"windows_x86_64_gnu","vers":"0.42.2","deps":[],"cksum":"8de912b8b8feb55c064867cf047dda097f92d51efad5b491dfb98f6bbb70cb36","features":{},"yanked":false}
+{"name":"windows_x86_64_gnu","vers":"0.48.5","deps":[],"cksum":"53d40abd2583d23e4718fddf1ebec84dbff8381c07cae67ff7768bbf19c6718e","features":{},"yanked":false}
+{"name":"windows_x86_64_gnu","vers":"0.52.4","deps":[],"cksum":"5eee091590e89cc02ad514ffe3ead9eb6b660aedca2183455434b93546371a03","features":{},"yanked":false}

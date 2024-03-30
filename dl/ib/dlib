@@ -1,0 +1,1 @@
+{"name":"dlib","vers":"0.5.2","deps":[{"name":"libloading","req":">=0.7, <0.9","features":[],"optional":false,"default_features":true,"target":null,"kind":null,"package":null}],"cksum":"330c60081dcc4c72131f8eb70510f1ac07223e5d4163db481a04a0befcffa412","features":{},"yanked":false}

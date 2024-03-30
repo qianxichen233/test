@@ -1,0 +1,1 @@
+{"name":"odbc-sys","vers":"0.24.0","deps":[],"cksum":"6c219b6a4cd9eb167239d921d7348132cdff2eca05abbf1094e7f7ec9b8936b6","features":{"default":["odbc_version_3_80"],"iodbc":[],"odbc_version_3_50":[],"odbc_version_3_80":["odbc_version_3_50"],"odbc_version_4":["odbc_version_3_80"],"static":[]},"yanked":false}

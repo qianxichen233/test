@@ -1,0 +1,1 @@
+{"name":"objc2-encode","vers":"3.0.0","deps":[],"cksum":"d079845b37af429bfe5dfa76e6d087d788031045b25cfc6fd898486fd9847666","features":{"alloc":[],"default":["std"],"std":["alloc"]},"yanked":false}
